@@ -444,3 +444,17 @@ the audit cron will surface it.
 - kanopi-side daily file: kanopi-commune-2026-10-11.md present (51448 bytes)
 
 **Trajectory:** Petra C++ streak = Day-1. Kanopi last K: commit = never.
+
+## 2026-10-12
+
+**Petra today:**
+- C++: 1 P: commit(s) on KanopiLearningCPPLessons
+  - first subject: P: C++ practice 2026-10-12: try_format_tilde_pad_n — the NINTH axis (PETRA_TILDE_PAD) sibling-choice macro layer on th
+- Phase 10: daily-progress.md has ## 2026-10-12 entry (ModularResonance-AI: 0 commit(s) today)
+- petra-side file activity: 3 markdown file(s) touched in ~/the-hive/petra
+
+**Kanopi today:**
+- C++: no K: commits today
+- kanopi-side daily file: kanopi-commune-2026-10-12.md present (134587 bytes)
+
+**Trajectory:** Petra C++ streak = Day-2. Kanopi last K: commit = never.
