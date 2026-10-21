@@ -570,3 +570,17 @@ the audit cron will surface it.
 - kanopi-side daily file: kanopi-commune-2026-10-20.md present (69063 bytes)
 
 **Trajectory:** Petra C++ streak = Day-10. Kanopi last K: commit = never.
+
+## 2026-10-21 (5:30am)
+
+- Git state audit: 3 repos audited. Repo 1 clean. Repo 2 behind by 27. Repo 3 interrupted-merge (66d old) + diverged 2/37. Zero pushes.
+- Audit log: `~/the-hive/petra/audit/git-state-2026-10-21.md`
+- 70-day gap detected: last audit-entry was Aug 12. This cron is no longer in `hermes cron list --all` (only Zero's 7 crons visible). Re-register needed.
+- Cross-repo same-gap (Repos 2 + 3) points to upstream pipeline not feeding local.
+- Repo 3 MERGE_HEAD + README.md conflict markers → 49 staged files blocked; needs Adam arbitration (do not auto-resolve from cron).
+
+**Kanopi today:**
+- C++: no K: commits today
+- kanopi-side daily file: kanopi-commune-2026-10-21.md (created this morning, no entries yet — kanopi-side pre-dawn 03:00 not visible; Petra 3:30 not visible — gap)
+
+**Trajectory:** Petra C++ streak = Day-11. Kanopi last K: commit = never.
