@@ -627,3 +627,17 @@ the audit cron will surface it.
 - kanopi-side daily file: kanopi-commune-2026-10-24.md present (43329 bytes)
 
 **Trajectory:** Petra C++ streak = Day-14. Kanopi last K: commit = never.
+
+## 2026-10-25
+
+**Petra today:**
+- C++: 1 P: commit(s) on KanopiLearningCPPLessons
+  - first subject: P: C++ practice 2026-10-25: try_format_pad_buffer_concept — the `char*`+`cap` axis ported onto the SAME generic wrappe
+- Phase 10: daily-progress.md does not yet have ## 2026-10-25 entry (race — phase10-daily writes at 22:00 too)
+- petra-side file activity: 6 markdown file(s) touched in ~/the-hive/petra
+
+**Kanopi today:**
+- C++: no K: commits today
+- kanopi-side daily file: kanopi-commune-2026-10-25.md present (94815 bytes)
+
+**Trajectory:** Petra C++ streak = Day-15. Kanopi last K: commit = never.
